@@ -1,0 +1,308 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: #F8FAFD;
+}
+
+.nav{
+  position: absolute;
+width: 428px;
+height: 88.84px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+
+.vector{
+  position: absolute;
+left: 5.83%;
+right: 81.86%;
+top: 2.09%;
+bottom: 92.49%;
+
+}
+
+.vector_1{
+  position: absolute;
+left: 8.33%;
+right: 84.74%;
+top: 9.89%;
+bottom: 93.29%;
+}
+
+.vector1{
+  position: absolute;
+width: 30.39px;
+height: 39.11px;
+left: 32.84px;
+top: 8.33px;
+
+border: 2px solid #DFEAF5;
+transform: rotate(-1.15deg);
+}
+
+.heading{
+  position: absolute;
+width: 113px;
+height: 42px;
+left: 95.65px;
+top: -22.42px;
+
+font-family: 'Nexa Bold';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #315680;
+}
+.rec1{
+  
+position: absolute;
+width: 41.1px;
+height: 5.86px;
+left: 356.8px;
+top: 20.45px;
+
+background: #315680;
+}
+
+.rec2{
+  position: absolute;
+  width: 41.1px;
+  height: 5.86px;
+  left: 362.77px;
+  top: 31.49px;
+  
+  background: #315680;
+}
+
+.rec3{
+  position: absolute;
+  width: 41.1px;
+  height: 5.86px;
+  left: 356.8px;
+  top: 42.53px;
+  
+  background: #315680;
+}
+
+.container{
+  position: absolute;
+width: 428px;
+height: 837.16px;
+left: 0px;
+top: 88.84px;
+
+background: #F8FAFD;
+}
+
+.head1{
+  position: absolute;
+width: 390px;
+height: 138px;
+left: 19px;
+top: 50.66px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 900;
+font-size: 37px;
+line-height: 46px;
+
+color: #000000;
+}
+
+.line1{
+  position: absolute;
+width: 0px;
+height: 105.15px;
+left: 23.78px;
+top: 240.01px;
+
+border: 3px solid #315680;
+
+}
+p{
+  position: absolute;
+width: 359.14px;
+height: 100px;
+left: 40.71px;
+top: 240.01px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+
+color: #000000;
+
+}
+.container1{
+  position: absolute;
+width: 405.55px;
+height: 409.2px;
+left: 11.23px;
+top: 454.24px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 30px rgba(44, 60, 74, 0.08);
+border-radius: 8px;
+}
+.head2{
+  position: absolute;
+width: 84px;
+height: 23px;
+left: 45.16px;
+top: 15.05px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 21px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.date{
+  position: absolute;
+left: 10.55%;
+right: 85.22%;
+top: 15.97%;
+bottom: 41.08%;
+}
+.add1{
+  left: 20.24%;
+  position: absolute;
+  right: 78.04%;
+  top: 15.81%;
+  width: fit-content;
+  bottom: 95.64%;
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #2F3C49;
+}
+.down{
+  position: absolute;
+  width: 14.23px;
+  height: 7.25px;
+  left: 340.64px;
+  top: 72px;
+}
+
+
+.head3{
+  position: absolute;
+width: 100px;
+height: 23px;
+left: 45.16px;
+top: 100.93px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 21px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.date1{
+  position: absolute;
+left: 10.55%;
+right: 85.22%;
+top: 37.69%;
+bottom: 31.35%;
+}
+
+.add2{
+  position: absolute;
+left: 17.76%;
+right: 78.04%;
+top: 37.19%;
+bottom: 95.64%;
+width: 100px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #2F3C49;
+}
+.down1{
+  position: absolute;
+  width: 14.23px;
+  height: 7.25px;
+  left: 340.64px;
+  top: 157px;
+}
+
+.head4{
+  position: absolute;
+width: 100px;
+height: 23px;
+left: 24.16px;
+top: 190.93px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 21px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.down2{
+  position: absolute;
+  left: 10.55%;
+  right: 85.22%;
+  top: 58.69%;
+  bottom: 31.35%;
+}
+
+.add3{
+  position: absolute;
+left: 14.76%;
+right: 78.04%;
+top: 58.5%;
+bottom: 95.64%;
+width: 100px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #2F3C49;
+}
+
+.btn{
+  position: absolute;
+width: 318.83px;
+height: 52.58px;
+left: 44.01px;
+top: 290.73px;
+
+background: #315680;
+border-radius: 8px;
+}

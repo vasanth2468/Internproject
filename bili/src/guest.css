@@ -1,0 +1,153 @@
+
+.adult1{
+    position: absolute;
+left: 10%;
+right: 85.82%;
+top: 30.86%;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.children{
+    position: absolute;
+left: 10%;
+right: 78.44%;
+top: 40.57%;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.btnbox{
+    position: absolute;
+    left: 56.46%;
+    top: 31.36%;
+    width: auto;
+    background: #FFFFFF;
+    border: 0px solid #315680;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.box{
+    width: 18px;
+}
+.minusbox{
+    position: absolute;
+    left: px;
+    top: 8px;
+    left: 9px;
+    width: auto;
+}
+.adultvalue{
+    border: none;
+    left: 66%;
+    width: 10px;
+    position: absolute;
+    top: 32%;
+}
+
+.btnboxplus{
+    position: absolute;
+    left: 71.46%;
+    top: 31.36%;
+    width: auto;
+    background: #FFFFFF;
+    border: 0px solid #315680;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.plusbox{
+    width: 18px;
+}
+.plus1box{
+    position: absolute;
+    left: px;
+    top: 8px;
+    left: 9px;
+    width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btnbox1{
+    position: absolute;
+    left: 56.46%;
+    top: 41.36%;
+    width: auto;
+    background: #FFFFFF;
+    border: 0px solid #315680;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.box1{
+    width: 18px;
+}
+
+.minusbox1{
+    position: absolute;
+    left: px;
+    top: 9px;
+    left: 9px;
+    width: auto;
+}
+.childrenvalue{
+    border: none;
+    left: 66%;
+    width: 10px;
+    position: absolute;
+    top: 42%;
+}
+
+.chbtnbox{
+    position: absolute;
+    left: 71.46%;
+    top: 41.36%;
+    width: auto;
+    background: #FFFFFF;
+    border: 0px solid #315680;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.chbox{
+    width: 18px;
+}
+
+.chplusbox{
+    position: absolute;
+    left: px;
+    top: 9px;
+    left: 9px;
+    width: auto;
+}
+.plus2box{
+    left: 13px;
+    top: 5px;
+    position: absolute;
+}
